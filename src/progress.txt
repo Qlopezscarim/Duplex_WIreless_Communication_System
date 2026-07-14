@@ -1,0 +1,2 @@
+need to make sure my energy detector actually rises and captures the m-sequence
+need to pre-pend the start of my packet with garbage info
